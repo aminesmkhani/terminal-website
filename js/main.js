@@ -3,7 +3,7 @@ const contact = document.querySelector('#contact')
 const aboutContent = document.querySelector('#about-content')
 const contactContent = document.querySelector('#contact-content')
 
-
+// About Terminal Page
 about.addEventListener('click',()=>{
    const aboutBox =new WinBox({
        title: 'About Me',
@@ -23,6 +23,8 @@ about.addEventListener('click',()=>{
        },
    })
 });
+
+// Contact Terminal Page
 contact.addEventListener('click',()=>{
    const contactBox =new WinBox({
        title: 'Contact Me',
