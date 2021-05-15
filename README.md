@@ -29,9 +29,10 @@ Just Download Project and Open index.html file Enjoy ✅
 ## Opne Source Project 😎😎
 
 
+
 <div dir="rtl">
 
-## 🇮🇷 فارسی
+# 🇮🇷 فارسی
 
 ![Terminal Website](https://s4.uupload.ir/files/screenshot_at_2021-05-15_11-43-39_si1.png)
 
@@ -52,4 +53,4 @@ Just Download Project and Open index.html file Enjoy ✅
 
 ### کد برای سرگرمی 🤪
 
-## پروژه متن باز 😎😎
+### پروژه متن باز 😎😎
